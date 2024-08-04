@@ -1,0 +1,9 @@
+*.csproj
+UnityRoyaleClone/.vscode/
+UnityRoyaleClone/.idea/
+*.sln
+UnityRoyaleClone/Temp/
+UnityRoyaleClone/Library/
+UnityRoyaleClone/obj/
+UnityRoyaleClone/Logs/
+UnityRoyaleClone/UserSettings/
